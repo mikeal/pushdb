@@ -1,6 +1,6 @@
 {
   "name": "pushdb",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A programmable database with document storage and unique indexing capabilities.",
   "main": "index.js",
   "directories": {
