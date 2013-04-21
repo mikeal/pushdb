@@ -1,0 +1,30 @@
+{
+  "name": "pushdb",
+  "version": "0.1.0",
+  "description": "A programmable database with document storage and unique indexing capabilities.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bytewise": "~0.2.0",
+    "levelup": "~0.8.0",
+    "node-uuid": "~1.4.0",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tests/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/pushdb"
+  },
+  "keywords": [
+    "db",
+    "database",
+    "leveldb"
+  ],
+  "author": "Mikeal Rogers",
+  "license": "Apache2"
+}
